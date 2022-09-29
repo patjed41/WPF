@@ -4,7 +4,7 @@
 
 Write a function that sorts a graph topologically.
 
-## Full description
+# Full description in polish
 
 Sortowanie topologiczne polega na rozszerzeniu grafu skierowanego bez cykli (DAG-u) do porządku liniowego.
 
