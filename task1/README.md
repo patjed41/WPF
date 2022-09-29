@@ -67,6 +67,3 @@ Rozwiązując to zadanie możesz przyjąć następujące zasady ułatwiające ro
     Może Ci się przydać standardowa procedura `classify_float`, która ułatwia odróżnienie nieskończoności, symbolu nieokreślonego i zwykłych liczb.
 
 Twoje rozwiązanie ma być umieszczone w pliku o nazwie arytmetyka.ml i pasować do specyfikacji interfejsu [**arytmetyka.mli**](https://github.com/patjed41/WPF/blob/master/task1/src/arytmetyka.mli).
-
----
-Copyright of the task's description: MIM UW.

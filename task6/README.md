@@ -18,5 +18,3 @@ Napisz procedurę `przelewanka : (int * int) array -> int`, która mając daną 
 
 Możesz założyć, że $0 \leq n$, oraz $0 \leq y_i \leq x_i$ dla $i = 1, 2, \ldots, n$.
 
----
-Copyright of the task's description and resources: MIM UW.

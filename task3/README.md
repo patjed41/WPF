@@ -22,5 +22,3 @@ Przy implementacji zwróć uwagę, jak zachowuje się Twój kod dla liczb równy
 
 Jak zwykle implementacja powinna być udokumentowana; w szczególności należy wpisać w komentarzu niezmienniki dla używanych struktur danych oraz pre- i post-warunki wszystkich metod występujących w implementacji (zwłaszcza tych, których nazwy nie występują w specyfikacji). Warunki te mogą dotyczyć np. poprawności drzew, zakładanej różnicy wysokości drzew, itp.
 
----
-Copyright of the task's description and resources: MIM UW.

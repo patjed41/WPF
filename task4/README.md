@@ -44,5 +44,3 @@ czyli wynikiem jest złożenie kartki [k] kolejno wzdłuż wszystkich prostych
 z listy *) 
 ```
 
----
-Copyright of the task's description and resources: MIM UW.

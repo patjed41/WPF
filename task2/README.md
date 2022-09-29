@@ -58,7 +58,3 @@ val is_empty : 'a queue -> bool (** Zwraca [true] jeśli dana kolejka jest pusta
 ```
 (specyfikacja ta znajduje się również w pliku [**leftist.mli**](https://github.com/patjed41/WPF/blob/master/task2/src/leftist.mli))
 
-Termin oddania zadania ustala prowadzący — 2 tygodnie po ogłoszeniu.
-
----
-Copyright of the task's description and resources: MIM UW.
