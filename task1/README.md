@@ -1,12 +1,12 @@
 # Arytmetyka
 
-### Task
+## Task
 
 Write a library of arithmetic operations performed on approximate values represented as intervals.
 
 # Full description in polish
 
-### Arytmetyka przybliżonych wartości
+## Arytmetyka przybliżonych wartości
 
 Tam gdzie dokonujemy pomiarów wielkości fizycznych, wyniki są obarczone pewnym błędem, np. $5m \pm 10$%. Każdą taką przybliżoną wartość traktujemy jak zbiór możliwych wartości. Zaimplementuj pakiet operacji arytmetycznych na takich przybliżonych wartościach zawierający:
 
